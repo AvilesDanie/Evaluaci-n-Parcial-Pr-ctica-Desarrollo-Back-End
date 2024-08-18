@@ -1,5 +1,3 @@
-https://github.com/AvilesDanie/Evaluaci-n-Parcial-Pr-ctica-Desarrollo-Back-End.git
-
 ### 1. Clonar el repositorio
 
 Primero, clona el repositorio en tu máquina local:
